@@ -1,2 +1,2 @@
 # google-extension-nyan
-時報猫
+時報_猫
